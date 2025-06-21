@@ -23,7 +23,7 @@ public class Ae2QuantumBoostTabs {
             //Add your items to the tab.
             .displayItems((params, output) -> {
                 output.accept(Blocks.QUARTZ_GROWTH_CHAMBER_PROZESSOR_BLOCK.get());
-                output.accept(Items.QUARTZ_GROWTH_CHAMBER_ITEM.get());
+                output.accept(Items.QUARTZ_GROWTH_CORE_ITEM.get());
             })
             .build()
     );

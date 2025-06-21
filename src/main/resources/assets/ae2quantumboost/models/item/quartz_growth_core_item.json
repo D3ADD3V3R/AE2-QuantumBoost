@@ -3,6 +3,6 @@
   "render_type": "minecraft:translucent",
   "gui_light": "front",
   "textures": {
-    "layer0": "ae2quantumboost:item/quartz_growth_chamber_item"
+    "layer0": "ae2quantumboost:item/quartz_growth_core_item"
   }
 }

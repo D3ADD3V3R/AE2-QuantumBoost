@@ -28,7 +28,7 @@ TODO-List for first Version:
             - [ ] 1G
         - [ ] Bukket of Liquid Quarz
     - Crafting Items
-        - [ ] Quarz Growth Core
+        - [X] Quarz Growth Core
 - Recipes
     - Crafting
         - [ ] QuantumStorage Cell

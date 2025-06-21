@@ -15,5 +15,5 @@ public class Items {
     public static final DeferredItem<BlockItem> QUARZ_GROWTH_CHAMBER_PROZESSOR_BLOCK_ITEM = ITEMS_REGISTER.registerSimpleBlockItem("quartz_growth_chamber_prozessor_block", QUARTZ_GROWTH_CHAMBER_PROZESSOR_BLOCK);
 
     // Empty Items
-    public static final DeferredItem<Item> QUARTZ_GROWTH_CHAMBER_ITEM = ITEMS_REGISTER.registerSimpleItem("quartz_growth_chamber_item");
+    public static final DeferredItem<Item> QUARTZ_GROWTH_CORE_ITEM = ITEMS_REGISTER.registerSimpleItem("quartz_growth_core_item");
 }

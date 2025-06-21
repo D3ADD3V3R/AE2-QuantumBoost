@@ -1,4 +1,5 @@
 {
   "itemGroup.ae2quantumboost": "AE2-QuantumBoost",
-  "block.ae2quantumboost.quartz_growth_chamber_prozessor_block": "Quarz-Wachstumskammer"
+  "block.ae2quantumboost.quartz_growth_chamber_prozessor_block": "Quarz-Wachstumskammer",
+  "item.ae2quantumboost.quartz_growth_core_item": "Quarz Wachstums Kern"
 }
