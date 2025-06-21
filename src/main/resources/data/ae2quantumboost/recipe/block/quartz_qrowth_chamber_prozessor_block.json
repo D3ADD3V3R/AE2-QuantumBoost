@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DAD",
+    "ABA",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:growth_accelerator"
+    },
+    "B": {
+      "item": "ae2quantumboost:quartz_growth_chamber_item"
+    },
+    "C": {
+      "item": "ae2:quartz_block"
+    },
+    "D": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ae2quantumboost:quartz_growth_chamber_prozessor_block"
+  }
+}

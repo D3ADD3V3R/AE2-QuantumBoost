@@ -16,11 +16,11 @@ import net.minecraft.world.phys.BlockHitResult;
 import org.jetbrains.annotations.NotNull;
 
 
-public class QuarzGrowthChamberProzessor extends Block {
+public class QuartzGrowthChamberProzessor extends Block {
 
     public static final BooleanProperty CRAFTING = BlockStateProperties.CRAFTING;
 
-    public QuarzGrowthChamberProzessor(ResourceLocation registryName) {
+    public QuartzGrowthChamberProzessor(ResourceLocation registryName) {
         this(Properties.of()
                 .destroyTime(2.0f)
                 .explosionResistance(10.0f)
@@ -28,7 +28,7 @@ public class QuarzGrowthChamberProzessor extends Block {
                 .lightLevel(state -> 7));
     }
 
-    public QuarzGrowthChamberProzessor(Properties properties) {
+    public QuartzGrowthChamberProzessor(Properties properties) {
         super(properties);
 
         this.registerDefaultState(stateDefinition.any()

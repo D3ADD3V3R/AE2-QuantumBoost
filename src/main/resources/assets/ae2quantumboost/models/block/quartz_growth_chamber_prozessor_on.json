@@ -6,6 +6,7 @@
     "north": "ae2quantumboost:block/quartz_growth_chamber_side_front_on",
     "south": "ae2quantumboost:block/quartz_growth_chamber_side",
     "west": "ae2quantumboost:block/quartz_growth_chamber_side",
-    "east": "ae2quantumboost:block/quartz_growth_chamber_side"
+    "east": "ae2quantumboost:block/quartz_growth_chamber_side",
+    "particle": "ae2quantumboost:block/quartz_growth_chamber_side"
   }
 }

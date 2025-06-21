@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "A A",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:molecular_assembler"
+    },
+    "B": {
+      "item": "ae2:quartz_block"
+    },
+    "C": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "ae2quantumboost:quartz_growth_chamber_item"
+  }
+}
