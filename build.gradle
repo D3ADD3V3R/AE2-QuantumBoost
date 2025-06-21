@@ -134,7 +134,8 @@ dependencies {
     // The group id is ignored when searching -- in this case, it is "blank"
     //implementation "blank:appliedenergistics2-19.2.12"
     compileOnly "org.appliedenergistics:appliedenergistics2:19.2.12:api"
-    runtimeOnly "org.appliedenergistics:appliedenergistics2:19.2.12"
+    localRuntime "org.appliedenergistics:appliedenergistics2:19.2.12"
+
     //implementation "curse.maven:applied-energistics-2-223794:6626602"
 
     // Example mod dependency using a file as dependency
