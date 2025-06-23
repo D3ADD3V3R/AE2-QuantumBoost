@@ -35,6 +35,6 @@ TODO-List for first Version:
         - [ ] QuantumBit
         - [ ] QuantumBitArray
         - [ ] QuantumComputeCell
-        - [ ] Quarz Growth Chamber
-            - [ ] Quarz Growth Core
+        - [X] Quarz Growth Chamber
+            - [X] Quarz Growth Core
         - [ ] Quantum Liquifier
