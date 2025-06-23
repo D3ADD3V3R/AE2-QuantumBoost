@@ -1,6 +1,6 @@
 {
   "parent": "ae2quantumboost:item/base_item_model",
   "textures": {
-    "layer0": "ae2quantumboost:item/quartz_growth_core_item"
+    "layer0": "ae2quantumboost:item/m3_memory_drive_tier_1_1"
   }
 }

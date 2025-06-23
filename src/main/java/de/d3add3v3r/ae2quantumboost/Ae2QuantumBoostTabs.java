@@ -2,6 +2,7 @@ package de.d3add3v3r.ae2quantumboost;
 
 import de.d3add3v3r.ae2quantumboost.blocks.Blocks;
 import de.d3add3v3r.ae2quantumboost.items.Items;
+import de.d3add3v3r.ae2quantumboost.items.M3MemoryCell;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
@@ -24,6 +25,7 @@ public class Ae2QuantumBoostTabs {
             .displayItems((params, output) -> {
                 output.accept(Blocks.QUARTZ_GROWTH_CHAMBER_PROZESSOR_BLOCK.get());
                 output.accept(Items.QUARTZ_GROWTH_CORE_ITEM.get());
+                M3MemoryCell.registerM3MemoryDriveVariantsToTab(output);
             })
             .build()
     );

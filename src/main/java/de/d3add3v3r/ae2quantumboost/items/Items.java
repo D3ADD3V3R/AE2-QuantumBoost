@@ -16,4 +16,6 @@ public class Items {
 
     // Empty Items
     public static final DeferredItem<Item> QUARTZ_GROWTH_CORE_ITEM = ITEMS_REGISTER.registerSimpleItem("quartz_growth_core_item");
+
+    public static final int M3_MEMORY_CELL_VARIANT_COUNT = M3MemoryCell.registerM3MemoryDriveVariants(ITEMS_REGISTER);
 }
