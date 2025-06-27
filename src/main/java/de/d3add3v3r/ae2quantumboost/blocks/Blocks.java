@@ -9,4 +9,6 @@ public class Blocks {
 
     public static final DeferredBlock<QuartzGrowthChamberProzessor> QUARTZ_GROWTH_CHAMBER_PROZESSOR_BLOCK = BLOCKS_REGISTER.register("quartz_growth_chamber_prozessor_block", QuartzGrowthChamberProzessor::new);
 
+    public static final DeferredBlock<QuartzLiquifier> QUARTZ_LIQUIFIER_BLOCK = BLOCKS_REGISTER.register("quartz_liquifier_block", QuartzLiquifier::new);
+
 }

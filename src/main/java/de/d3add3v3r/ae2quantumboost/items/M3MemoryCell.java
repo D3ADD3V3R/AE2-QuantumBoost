@@ -31,7 +31,8 @@ public class M3MemoryCell extends Item implements ICellHandler, StorageCell {
     }
 
     public static int registerM3MemoryDriveVariants(DeferredRegister.Items itemRegister) {
-        registeredItemVariants.add(itemRegister.register("m3_memory_drive_1_1", () -> new M3MemoryCell(new Item.Properties(), 512, 63)));
+        registeredItemVariants.add(itemRegister.register("m3_memory_drive_1_1", () -> new M3MemoryCell(new Item.Properties(), 1024, 63)));
+        registeredItemVariants.add(itemRegister.register("m3_memory_drive_1_2", () -> new M3MemoryCell(new Item.Properties(), 2048, 63)));
 
         return registeredItemVariants.size();
     }

@@ -14,6 +14,17 @@ TODO-List for first Version:
     - [ ] Cryo Cables
     - [ ] Quarz Growth Chamber
     - [ ] Quarz Liquifier
+    - [ ] Flywheel-Multiblock
+        - Tierless Blocks
+            - Flywheel Casing
+            - Flywheel Controller
+            - Flywheel Energy-Acceptor (extendable)
+        -  [ ] Tier 1
+            - [ ] Flywheel Component (Iron)
+        -  [ ] Tier 2
+            - [ ] Flywheel Component (Carbon)
+        -  [ ] Tier 3
+            - [ ] Flywheel Component (Ultinium)
 - Items
     - Usable Items
         - [ ] Quantum Processor

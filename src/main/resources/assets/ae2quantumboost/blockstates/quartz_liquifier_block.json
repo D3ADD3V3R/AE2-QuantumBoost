@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "crafting=false": {
+      "model": "ae2quantumboost:block/quartz_liquifier_off"
+    },
+    "crafting=true": {
+      "model": "ae2quantumboost:block/quartz_liquifier_on"
+    }
+  }
+}
